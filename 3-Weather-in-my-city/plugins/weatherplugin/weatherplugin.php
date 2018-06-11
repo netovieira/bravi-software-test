@@ -65,8 +65,5 @@ function WPinitScript($atts) {
 
 
 add_shortcode('WPshowSearch', 'WPshowSearch');
-add_shortcode('WPshowFiveDayForecast', 'WPshowFiveDayForecast');
-add_shortcode('WPshowFourteenDayForecast', 'WPshowFourteenDayForecast');
-add_shortcode('WPshowBasicMap', 'WPshowBasicMap');
 add_shortcode('WPshowCurrentConditions', 'WPshowCurrentConditions');
 add_shortcode('WPinitScript', 'WPinitScript');
