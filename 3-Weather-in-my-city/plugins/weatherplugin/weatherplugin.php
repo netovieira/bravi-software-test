@@ -2,7 +2,7 @@
 /*
 Plugin Name: Weather Plugin
 Plugin URI: http://www.bravi.com.br
-Description: Plugin for displaying current conditions, current weather map, and local forecasts from http://openweathermap.org/.
+Description: Plugin for displaying current conditions from http://openweathermap.org/.
 Author: Anthero Vieira Neto
 License: GPL3
 Version: 1.00
