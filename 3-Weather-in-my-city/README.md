@@ -1,4 +1,4 @@
-#3. Weather in my city 
+# 3. Weather in my city 
  
 Please solve the following challenge using WordPress. Bonus points for Twig and Timber. 
  
